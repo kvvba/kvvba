@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvvba
+- 👋 Hi, I’m jakub
 - 👀 I’m interested in computational fluid dynamics and numerical simulation
 - 🌱 I’m currently working on bubble advection in horizontal microchannels using Basilisk
 - 💞️ I’m looking to collaborate on flow boiling phenomena
