@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jakub
-- 👀 I’m interested in computational fluid dynamics and numerical simulation
+- 👀 I’m interested in computational fluid dynamics and direct numerical simulation
 - 🌱 I’m currently working on bubble advection in horizontal microchannels using Basilisk
-- 💞️ I’m looking to collaborate on flow boiling phenomena
+- 💞️ I’m looking to collaborate on simulation of flow boiling phenomena
 - 📫 You can reach me at jakub@posteo.net
